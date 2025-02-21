@@ -13,4 +13,5 @@ Main features of the tool
 
 
 If you find this tool helpful and would like to show your support, you’re welcome to ‘Buy me a coffee’ through the link below. Your support is truly appreciated!
+
 https://buymeacoffee.com/tronotrond
