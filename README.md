@@ -10,3 +10,7 @@ Main features of the tool
 - Support for curveu and tangentu attributes with or without resampling
 - Use original geometry for point generation (center on edge or primitives) or resample curve
 - Experimental feature of rebuilding bad input geometry. The tool can try to quad remesh the geometry and find edge loop from end to end from there. Doesn't work well on models with sharp corners though.
+
+
+If you find this tool helpful and would like to show your support, you’re welcome to ‘Buy me a coffee’ through the link below. Your support is truly appreciated!
+https://buymeacoffee.com/tronotrond
